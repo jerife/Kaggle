@@ -3,7 +3,7 @@
 ### Kaggle Competitions & NoteBooks Repostory
 
  Participating Competitions
- - 01 Pima inddian Diabetes 
+ - [01 Pima inddian Diabetes](https://github.com/jerife/Kaggle/blob/main/01%20Pima%20inddian%20Diabetes.ipynb)
  - 02 Santander Customer Transaction Prediction
  - 03 Santander_Customer_Satisfaction
  - 04 Titanic - Machine Learning from Disaster
