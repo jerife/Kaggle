@@ -3,5 +3,10 @@
 ### Kaggle Competitions & NoteBooks Repostory
 
  Participating Competitions
- - wqe
- - we
+ - 01 Pima inddian Diabetes 
+ - 02 Santander Customer Transaction Prediction
+ - 03 Santander_Customer_Satisfaction
+ - 04 Titanic - Machine Learning from Disaster
+ - 05 Natural Language Processing with Disaster Tweets
+ - 06 Fake News
+ - 07 Plant Pathology 2021 - FGVC8
