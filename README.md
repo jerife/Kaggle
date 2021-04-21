@@ -1,6 +1,6 @@
 # Kaggle
 ![KakaoTalk_Photo_2021-04-21-14-39-27](https://user-images.githubusercontent.com/68190553/115502285-a370fe80-a2af-11eb-95eb-fd0c26887f4f.png)
-### Kaggle Competitions & NoteBooks Repository
+### Kaggle Competition & DataSet NoteBooks Repository
 
  Participating Competitions
  - [01 Pima inddian Diabetes](https://github.com/jerife/Kaggle/blob/main/01%20Pima%20inddian%20Diabetes.ipynb)
