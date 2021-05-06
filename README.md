@@ -9,4 +9,5 @@
  - [04 Titanic - Machine Learning from Disaster](https://github.com/jerife/Kaggle/blob/main/04%20Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb)
  - [05 Natural Language Processing with Disaster Tweets](https://github.com/jerife/Kaggle/blob/main/05%20Natural%20Language%20Processing%20with%20Disaster%20Tweets.ipynb)
  - [06 Fake News](https://github.com/jerife/Kaggle/blob/main/06%20Fake%20News.ipynb)
- - [07 Plant Pathology 2021 - FGVC8](https://github.com/jerife/Kaggle/blob/main/07%20Plant%20Pathology%202021%20-%20FGVC8.ipynb) [~ing]
+ - [07 Plant Pathology 2021 - FGVC8](https://github.com/jerife/Kaggle/blob/main/07%20Plant%20Pathology%202021%20-%20FGVC8.ipynb)
+ - [08 New York City Taxi Fare Prediction](https://github.com/jerife/Kaggle/blob/main/08%20New%20York%20City%20Taxi%20Fare%20Prediction.ipynb)
