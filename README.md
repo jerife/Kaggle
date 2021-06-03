@@ -2,7 +2,7 @@
 ![KakaoTalk_Photo_2021-04-21-14-39-27](https://user-images.githubusercontent.com/68190553/115502285-a370fe80-a2af-11eb-95eb-fd0c26887f4f.png)
 ### Kaggle Competition & DataSet NoteBooks Repository
 
- Participating Competitions
+ Participating Competitions 👉 [My Kaggle Work](https://www.kaggle.com/jerifate/code)
  - 01 Pima inddian Diabetes [Click Here](https://www.kaggle.com/jerifate/pima-indians-check-the-need-smote-work)
  - 02 Santander Customer Transaction Prediction (Accuracy Score : 0.89472) [Click Here](https://www.kaggle.com/jerifate/santander-customer-transaction-prediction-lgbm)
  - 03 Santander_Customer_Satisfaction (Accuracy Score : 0.82326) [Click Here](https://www.kaggle.com/jerifate/customer-satisfaction-modeling-logistic-lgbm)
