@@ -2,13 +2,13 @@
 ![KakaoTalk_Photo_2021-04-21-14-39-27](https://user-images.githubusercontent.com/68190553/115502285-a370fe80-a2af-11eb-95eb-fd0c26887f4f.png)
 ### Kaggle Competition & DataSet NoteBooks Repository
 
- Participating Competitions
- - [01 Pima inddian Diabetes](https://github.com/jerife/Kaggle/blob/main/01%20Pima%20inddian%20Diabetes.ipynb)
- - [02 Santander Customer Transaction Prediction](https://github.com/jerife/Kaggle/blob/main/02%20Santander%20Customer%20Transaction%20Prediction.ipynb)
- - [03 Santander_Customer_Satisfaction](https://github.com/jerife/Kaggle/blob/main/03%20Santander_Customer_Satisfaction.ipynb)
- - [04 Titanic - Machine Learning from Disaster](https://github.com/jerife/Kaggle/blob/main/04%20Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb)
- - [05 Natural Language Processing with Disaster Tweets](https://github.com/jerife/Kaggle/blob/main/05%20Natural%20Language%20Processing%20with%20Disaster%20Tweets.ipynb)
- - [06 Fake News](https://github.com/jerife/Kaggle/blob/main/06%20Fake%20News.ipynb)
- - [07 Plant Pathology 2021 - FGVC8](https://github.com/jerife/Kaggle/blob/main/07%20Plant%20Pathology%202021%20-%20FGVC8.ipynb)
- - [08 New York City Taxi Fare Prediction](https://github.com/jerife/Kaggle/blob/main/08%20New%20York%20City%20Taxi%20Fare%20Prediction.ipynb)
- - [09 Tweet Sentiment Extraction](https://github.com/jerife/Kaggle/blob/main/09%20Tweet%20Sentiment%20Extraction.ipynb) [~ing]
+ Participating Competitions 👉 [My Kaggle Work](https://www.kaggle.com/jerifate/code)
+ - 01 Pima inddian Diabetes (Accuracy Score : 0.7333) 🥉 [Click Here](https://www.kaggle.com/jerifate/pima-indians-check-the-need-smote-work)
+ - 02 Santander Customer Transaction Prediction (Accuracy Score : 0.89472) [Click Here](https://www.kaggle.com/jerifate/santander-customer-transaction-prediction-lgbm)
+ - 03 Santander_Customer_Satisfaction (Accuracy Score : 0.82326) [Click Here](https://www.kaggle.com/jerifate/customer-satisfaction-modeling-logistic-lgbm)
+ - 04 Titanic - Machine Learning from Disaster (Accuracy Score : 0.78229) 🥉 [Click Here](https://www.kaggle.com/jerifate/titanic-purple-visualization-for-starter)
+ - 05 Natural Language Processing with Disaster Tweets (Accuracy Score : 0.80263) 🥉 [Click Here](https://www.kaggle.com/jerifate/disaster-tweet-tensorflow-with-glove)
+ - 06 Fake News (Accuracy Score : 0.99038) [Click Here](https://www.kaggle.com/jerifate/fake-news-eda-bert-lstm)
+ - 07 Plant Pathology 2021 - FGVC8 (Accuracy Score : 0.244) [Click Here](https://www.kaggle.com/jerifate/plant-pathology-2021-keras-model-inceptionv3)
+ - 08 New York City Taxi Fare Prediction (MSE Score : 3.3056) 🥉 [Click Here](https://www.kaggle.com/jerifate/taxi-fare-spatial-visualization-with-lgbm)
+ - 09 Tweet Sentiment Extraction (Jaccard Score : 0.60157) 🥉 [Click Here](https://www.kaggle.com/jerifate/tweet-sentiment-blue-visualization-with-bert)
