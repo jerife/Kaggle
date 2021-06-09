@@ -5,7 +5,7 @@
  Participating Competitions 👉 [My Kaggle Work](https://www.kaggle.com/jerifate/code)
  - 01 Pima inddian Diabetes (Accuracy Score : 0.7333) 🥉 [Click Here](https://www.kaggle.com/jerifate/pima-indians-check-the-need-smote-work)
  - 02 Santander Customer Transaction Prediction (Accuracy Score : 0.89472) [Click Here](https://www.kaggle.com/jerifate/santander-customer-transaction-prediction-lgbm)
- - 03 Santander_Customer_Satisfaction (Accuracy Score : 0.82326) [Click Here](https://www.kaggle.com/jerifate/customer-satisfaction-modeling-logistic-lgbm)
+ - 03 Santander Customer Satisfaction (Accuracy Score : 0.82326) [Click Here](https://www.kaggle.com/jerifate/customer-satisfaction-modeling-logistic-lgbm)
  - 04 Titanic - Machine Learning from Disaster (Accuracy Score : 0.78229) 🥉 [Click Here](https://www.kaggle.com/jerifate/titanic-purple-visualization-for-starter)
  - 05 Natural Language Processing with Disaster Tweets (Accuracy Score : 0.80263) 🥉 [Click Here](https://www.kaggle.com/jerifate/disaster-tweet-tensorflow-with-glove)
  - 06 Fake News (Accuracy Score : 0.99038) 🥉 [Click Here](https://www.kaggle.com/jerifate/fake-news-eda-bert-lstm)
