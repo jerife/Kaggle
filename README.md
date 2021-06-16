@@ -12,3 +12,4 @@
  - 07 Plant Pathology 2021 - FGVC8 (Accuracy Score : 0.244) 🥉 [Click Here](https://www.kaggle.com/jerifate/plant-pathology-2021-keras-model-inceptionv3)
  - 08 New York City Taxi Fare Prediction (MSE Score : 3.3056) 🥉 [Click Here](https://www.kaggle.com/jerifate/taxi-fare-spatial-visualization-with-lgbm)
  - 09 Tweet Sentiment Extraction (Jaccard Score : 0.60157) 🥉 [Click Here](https://www.kaggle.com/jerifate/tweet-sentiment-blue-visualization-with-bert)
+ - 10 Digit Recognizer (Accuracy Score : 0.93371) [Click Here](https://www.kaggle.com/jerifate/digit-recognizer-pytorch-baseline-for-starter)
