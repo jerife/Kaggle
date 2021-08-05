@@ -19,5 +19,5 @@
  - 11 Predict Future Sales (RMSE Score: 1.95955) 🥉 [Click Here](https://www.kaggle.com/jerifate/future-sales-time-series-visualization)
 
 ## Private Notebook
-> Train code is not uploaded to win the competition. But Inference code will be upload
+> Train code is not uploaded to win the competition. But Inference code will be upload.
 - 12 CommonLit Readability Prize (RMSE Score: 0.461) (**Top 14%**) [Competition Link](https://www.kaggle.com/c/commonlitreadabilityprize)
