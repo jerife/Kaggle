@@ -3,6 +3,9 @@
 ### Kaggle Competition & DataSet NoteBooks Repository
 
  Participating Competitions 👉 [My Kaggle Work](https://www.kaggle.com/jerifate/code)
+ 
+ ## Public Notebook
+ > 
  - 01 Pima inddian Diabetes (Accuracy Score: 0.7333) 🥉 [Click Here](https://www.kaggle.com/jerifate/pima-indians-check-the-need-smote-work)
  - 02 Santander Customer Transaction Prediction (ROC curve Score: 0.89377) [Click Here](https://www.kaggle.com/jerifate/transaction-prediction-should-i-use-the-pca)
  - 03 Santander Customer Satisfaction (Accuracy Score: 0.82326) [Click Here](https://www.kaggle.com/jerifate/customer-satisfaction-modeling-logistic-lgbm)
@@ -14,4 +17,7 @@
  - 09 Tweet Sentiment Extraction (Jaccard Score: 0.60157) 🥉 [Click Here](https://www.kaggle.com/jerifate/tweet-sentiment-blue-visualization-with-bert)
  - 10 Digit Recognizer (Accuracy Score: 0.98607) 🥈 [Click Here](https://www.kaggle.com/jerifate/digit-recognizer-pytorch-baseline-for-starter)
  - 11 Predict Future Sales (RMSE Score: 1.95955) 🥉 [Click Here](https://www.kaggle.com/jerifate/future-sales-time-series-visualization)
- - 12 CommonLit Readability Prize (RMSE Score: 0.461) (Top 14%) [Competition Link](https://www.kaggle.com/c/commonlitreadabilityprize)
+
+## Private Notebook
+> Train code is not uploaded to win the competition. But Inference code will be upload
+- 12 CommonLit Readability Prize (RMSE Score: 0.461) (**Top 14%**) [Competition Link](https://www.kaggle.com/c/commonlitreadabilityprize)
