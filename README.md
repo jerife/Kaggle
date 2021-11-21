@@ -21,3 +21,5 @@
 ## Private Notebook
 > Train code is not uploaded to win the competition. But Inference code will be upload.
 - 12 CommonLit Readability Prize (RMSE Score: 0.461) (**Top 14%**) [Competition Link](https://www.kaggle.com/c/commonlitreadabilityprize)
+- 13 NFL Health & Safety - Helmet Assignment (NFL Helmet identification Score: 0.470) (550/833)
+
